@@ -25,8 +25,8 @@ CONFIG = {
 		"field": "TEF_member_status", # "country_color",
 		"fallback_color": "#efefef",
 		"value_colors": {
-			"Partner": "#1f77b4",
-			"Associate partner": "#2ca02c",
+			"Partner": "#916349",
+			"Associate partner": "#C8A47B",
 		},
 		"country_border_color": "#9b9b9b",
 		"country_border_width": 0.7,

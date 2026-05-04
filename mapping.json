@@ -265,9 +265,9 @@
             },
             {
                 "name": "RISE Research Institutes Of Sweden",
-                "city": "Gothenburg",
+                "city": "Borås",
                 "website": null,
-                "coordinates": {"latitude": 57.7089, "longitude": 11.9746}
+                "coordinates": {"latitude": 57.72101, "longitude": 12.9401}
             }
         ]
     }

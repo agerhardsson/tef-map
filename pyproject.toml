@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tef-map"
+version = "0.1.0"
+description = "Generate SVG maps for TEF-Health providers"
+requires-python = ">=3.10"
+dependencies = [
+  "plotly>=6.7.0,<7",
+  "kaleido>=1.2.0,<2",
+]
+
+[project.scripts]
+map = "map:main"
+
+[tool.setuptools]
+py-modules = ["map"]
